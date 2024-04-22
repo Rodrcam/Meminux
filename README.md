@@ -58,7 +58,7 @@ Y el logo principal, con el que identificamos al sistema operativo Meminux:
 
 ---
 
-##Programadores: 
+## Programadores: 
 
 Pablo Villarquide
 
