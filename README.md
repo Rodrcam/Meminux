@@ -7,7 +7,8 @@ Meminux es un sistema operativo diseñado específicamente para los amantes de l
 Esta es la pantalla principal:
 [imagen]
 Hemos hecho algunos iconos que sustituyen los iconos normales:
-/Carpeta
+
+Carpeta
 ![2e71472a-e259-4db3-9565-4c0d52793bc4_edit_135540988580116](https://github.com/Rodrcam/Meminux/assets/160480263/84fdc4a3-9332-4e26-80e6-dfd5e619a812)
 
 Papelera
@@ -20,6 +21,7 @@ Buscador
 ![fd5376f3-bef7-4b3b-9bd1-e465b99e576c_edit_135562585243441](https://github.com/Rodrcam/Meminux/assets/160480263/ceb45387-3abc-40d6-90c9-50a9fbc39e4b)
 
 Y el logo principal, con el que identificamos al sistema operativo Meminux:
+![Mimux Logo_edit_136066780332832](https://github.com/Rodrcam/Meminux/assets/160480263/4a52c1dd-f0a9-42f2-8cb2-3ed73cc197b1)
 
 ## Características
 
