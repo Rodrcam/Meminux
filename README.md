@@ -7,7 +7,7 @@ Meminux es un sistema operativo diseñado específicamente para los amantes de l
 Esta es la pantalla principal:
 [imagen]
 Hemos hecho algunos iconos que sustituyen los iconos normales:
-Carpeta
+/Carpeta
 ![2e71472a-e259-4db3-9565-4c0d52793bc4_edit_135540988580116](https://github.com/Rodrcam/Meminux/assets/160480263/84fdc4a3-9332-4e26-80e6-dfd5e619a812)
 
 Papelera
