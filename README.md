@@ -55,3 +55,7 @@ Y el logo principal, con el que identificamos al sistema operativo Meminux:
 ---
 
 ¡Disfruta de Meminux, el sistema operativo donde los memes son la prioridad número uno! Si necesitas ayuda o tienes alguna pregunta, ¡no dudes en ponerte en contacto con nosotros!
+
+---
+
+
