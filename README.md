@@ -58,4 +58,15 @@ Y el logo principal, con el que identificamos al sistema operativo Meminux:
 
 ---
 
+##Programadores: 
+
+Pablo Villarquide
+
+Juan Romero
+
+Rodrigo Caminero
+
+Marcos García
+
+Sebastian Blanco
 
