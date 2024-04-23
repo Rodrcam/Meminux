@@ -20,6 +20,9 @@ Ratón
 Buscador
 ![fd5376f3-bef7-4b3b-9bd1-e465b99e576c_edit_135562585243441](https://github.com/Rodrcam/Meminux/assets/160480263/ceb45387-3abc-40d6-90c9-50a9fbc39e4b)
 
+Juego de la serpiente
+![d4733e14-0703-46a3-af1c-6d70c06b1f67_edit_160194780207222](https://github.com/Rodrcam/Meminux/assets/160480263/c397fd10-10f4-4523-a9c2-792c57ca21d1)
+
 Y el logo principal, con el que identificamos al sistema operativo Meminux:
 ![Mimux Logo_edit_136066780332832](https://github.com/Rodrcam/Meminux/assets/160480263/4a52c1dd-f0a9-42f2-8cb2-3ed73cc197b1)
 
